@@ -1,0 +1,20 @@
+{
+    "name": "rubensdimas/dot-env",
+    "description": "A simple library for managing environment variables in PHP. Created by William Costa.",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Rubensdimas\\DotEnv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "William Costa",
+            "email": "calwdev@gmail.com"
+        }
+    ]
+}
